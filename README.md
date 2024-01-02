@@ -1,4 +1,5 @@
 # Excel Projects
+A collection of Power BI projects
 
 ## Introduction
 
